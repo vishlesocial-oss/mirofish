@@ -1,0 +1,8 @@
+site,meals_per_day,meals_per_year,revenue_lakh,contribution_lakh,contribution_per_meal,fixed_lakh,ebitda_lakh,ebitda_margin_pct,ebit_lakh,capex_lakh,payback_years,revenue_to_capex
+Captive office ≥800 staff (free space),55,12650,16.3,8.2,64.5,4.6,3.6,21.9,0.6,15.0,4.2,1.09
+"Paid kiosk, Grade A office park",45,10350,13.4,6.7,64.5,8.8,-2.1,-15.8,-5.1,15.0,-1,0.89
+"Hospital (private, lobby)",50,16790,21.7,10.8,64.5,7.0,3.8,17.7,0.8,15.0,3.91,1.44
+Airport (terminal),60,20148,26.0,13.0,64.5,16.0,-3.0,-11.5,-6.0,15.0,-1,1.73
+Metro station (DMRC),40,13432,17.3,8.7,64.5,8.8,-0.1,-0.7,-3.1,15.0,-1,1.16
+Shopping mall food court,45,15111,19.5,9.7,64.5,11.2,-1.4,-7.4,-4.4,15.0,-1,1.3
+Highway wayside,30,10074,13.0,6.5,64.5,6.4,0.1,0.8,-2.9,15.0,141.53,0.87

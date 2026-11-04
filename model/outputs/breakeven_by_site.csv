@@ -1,0 +1,8 @@
+site,rent_lakh,operating_days,breakeven_meals_per_day,assumed_meals_per_day,headroom_x,repeat_intensity,verdict,note
+Captive office ≥800 staff (free space),0.6,250,31.0,55,1.78,Very high,PASS,"Same person, 4-5x/week. The only genuinely good site."
+"Paid kiosk, Grade A office park",4.8,250,59.3,45,0.76,High,FAILS,Rent is 8x the captive case for the same demand.
+"Hospital (private, lobby)",3.0,365,32.3,50,1.55,Medium-high,PASS,Attendants eat 3x/day; captive but price-sensitive.
+Airport (terminal),12.0,365,73.8,60,0.81,None,FAILS,"One-off travellers. No repeat, brutal concession fee."
+Metro station (DMRC),4.8,365,40.6,40,0.99,Low,FAILS,"4-hour peak; commuters carry bags, rarely eat a bowl standing."
+Shopping mall food court,7.2,365,51.7,45,0.87,Low,FAILS,Weekend-heavy. Competes with 20 hot QSRs at same price.
+Highway wayside,2.4,365,29.5,30,1.02,Very low,MARGINAL,Travellers want a sit-down break. Wrong occasion entirely.

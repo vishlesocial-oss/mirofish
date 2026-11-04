@@ -1,0 +1,8 @@
+criterion,if_missed_means
+Pilot ≥25 meals/day in a captive office for 8 weeks,CAC/pull problem
+Uptime ≥85% over 500 consecutive meal cycles,Reliability unsolved
+Food cost ≤₹45/meal at scale,Unit economics unsolved
+Per-meal cycle ≤3 min with zero interventions,Throughput unsolved
+80%+ of eaters repeat within 2 weeks,Product/market fit unsolved
+"Cleaning cycle <10 min, no manual scrub",Ops model unsolved
+Machine BOM at 100 units ≤₹18L,Manufacturing unsolved

@@ -1,0 +1,8 @@
+meals_per_day,office_max_capex_lakh,kiosk_max_capex_lakh,mall_max_capex_lakh
+20,0.4,,
+30,3.7,,
+40,6.9,,
+50,10.2,0.9,3.2
+60,13.5,4.2,7.9
+80,20.0,10.8,17.5
+100,26.6,17.3,27.1

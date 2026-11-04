@@ -1,0 +1,4 @@
+scenario,meals_per_day,uptime,capex_lakh,network_revenue_cr,network_ebitda_cr,ebitda_margin_pct
+"BEAR  churn 30%/yr, 25 meals/d, 82% uptime, ₹11L capex",25,0.82,11.0,42.5,-16.5,-38.8
+"BASE  45 meals/d, 90% uptime, ₹9L capex at volume",45,0.9,9.0,83.5,8.0,9.5
+"BULL  70 meals/d, 94% uptime, ₹7L capex at scale",70,0.94,7.0,136.0,37.5,27.8
